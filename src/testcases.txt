@@ -1,0 +1,9 @@
+1.Created a form in validations
+2.After filling the all the field data will be submited
+3.All screens are working properly
+4.Created a routes Router one page to another page
+5.Created admin dashboard can see the user details
+6.The data can be edit in admin dashboard
+7.The data can be deleted in admin dashboard
+8.Data can be search in search field
+9.Data can be sort from ascending to descending or descending to ascending
